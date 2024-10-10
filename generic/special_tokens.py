@@ -1,0 +1,9 @@
+IM_START = "<|im_start|>"
+IM_END = "<|im_end|>"
+NEXT_START = "<|next_start|>"
+NEXT_END = "<|next_end|>"
+TARGET_START = "<|target_start|>"
+TARGET_END = "<|target_end|>"
+TARGET = "<|target|>"
+SEARCH_AND_REPLACE = "<|search_and_replace|>"
+SPECIAL_WORDS=[IM_START, IM_END, NEXT_START, NEXT_END, TARGET_START, TARGET_END, TARGET, SEARCH_AND_REPLACE]

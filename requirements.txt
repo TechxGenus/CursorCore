@@ -1,0 +1,29 @@
+# data
+tqdm
+pandas
+datasets
+rouge_score
+
+# gen
+sglang[all]
+openai
+
+# src
+Levenshtein
+
+# train
+numba
+numpy
+ninja
+torch
+packaging
+transformers
+liger-kernel
+tensorboard
+accelerate
+deepspeed<=0.14.5
+
+# eval
+vllm
+evaluate
+evalplus
