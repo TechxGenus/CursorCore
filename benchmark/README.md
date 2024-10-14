@@ -15,7 +15,7 @@ The dataset is in JSON format with each entry structured as follows:
   - **type**: The type of content, typically `code`.
   - **lang**: The programming language used in the code, typically `python`.
   - **code**: The current version of the code for the task.
-- **user**: An instruction or reflextion provided by the user regarding the task.
+- **user**: An instruction or reflection provided by the user regarding the task.
 - **area**: Extra metadata, indicates the location of the cursor or the selected code area.
 
 ## Example Case
